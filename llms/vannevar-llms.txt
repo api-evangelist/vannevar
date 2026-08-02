@@ -1,0 +1,26 @@
+# Vannevar Labs
+
+> Vannevar Labs is a defense technology company building agentic AI for national security missions. Its Agent Orchestration platform combines defense-grade foundational data collected from adversarial information environments with mission-focused AI agents — course-of-action, force-protection, information-operations, and cross-border pattern-analysis agents — supporting decisions from the tactical kill chain to theater-level campaigns. Vannevar Labs publishes no public developer portal or API.
+
+## Company
+
+- [Website](https://www.vannevarlabs.com/): Restoring Deterrence, Reclaiming Advantage
+- [Agent Applications](https://www.vannevarlabs.com/ai-for-defense/agent-applications): Mission-focused AI agents for defense
+- [Foundational Data](https://www.vannevarlabs.com/ai-for-defense/foundational-data): National security datasets collected from adversarial environments
+- [Mission Areas: Indo-Pacific Deterrence](https://www.vannevarlabs.com/mission-areas/indo-pacific-deterrence)
+- [Mission Areas: Homeland Security](https://www.vannevarlabs.com/mission-areas/homeland-security)
+- [Mission Areas: Intelligent Statecraft](https://www.vannevarlabs.com/mission-areas/intelligent-statecraft)
+- [Blog](https://www.vannevarlabs.com/blog): Field notes from building a defense company
+- [Careers](https://www.vannevarlabs.com/careers/open-roles)
+- [Privacy Policy](https://www.vannevarlabs.com/privacy-policy)
+- [GitHub Organization](https://github.com/vannevar-labs)
+
+## APIs
+
+Vannevar Labs does not publish a public API, developer documentation, or machine-readable API specifications.
+
+## Optional
+
+- [LinkedIn](https://www.linkedin.com/company/vannevar-labs)
+- [X (Twitter)](https://x.com/vannevarlabs)
+- [YouTube](https://www.youtube.com/@VannevarLabs)
